@@ -1,0 +1,58 @@
+{
+	"storyName": "VS COOL GUY B)",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"ron",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Ron",
+			"ron",
+			[
+				240,
+				200,
+				0
+			]
+		],
+		[
+			"Wasted",
+			"ron-slightly-annoyed",
+			[
+				220,
+				180,
+				0
+			]
+		],
+		[
+			"Ayo",
+			"ron-mad",
+			[
+				220,
+				180,
+				0
+			]
+		],
+		[
+			"Bloodshed",
+			"hellron",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "cool week"
+}
