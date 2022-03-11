@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i am very homeless idk why im even here. why am i here? why do i exist? am i really funny? whats bob doing? is bob a simp? what kind of folder am i? am i real? is my chair real? is anything real? oh look is that someone walking up to me i wanna see!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "the beep to the bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hehehehehehehehehe i knew you'd do the funni"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bro i just relized why are you wearing a\\njumpsuit"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "are you bob the builder?????????????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im wearing my pajamas (in a cool way)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wanna sing the same fucking song we sand when we met?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yes because its not boring at all"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\nligma balls"
+		}
+	]
+}

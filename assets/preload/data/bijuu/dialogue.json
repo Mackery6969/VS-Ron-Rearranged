@@ -1,0 +1,200 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Heyo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bijuu Mike played this mod lets make fun of him"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "JJ",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you mean bijuu mike the DDLC player?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "why did you bring that up"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mackery",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "yeah why did you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "stfu mackery"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mackery",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mackery",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mackery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "JJ",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*punches Mackery*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Mackery",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AW I DIDNT EVEN SAY ANYTH-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "JJ",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SHUT UP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "see my portrait?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mackery",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "yeah"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "its pointing toward you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "whew i thought it was pointing toward me"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mackery",
+			"boxState": "normal",
+			"expression": "exited",
+			"text": "HEY WAIT IS THAT FAMOUS RAPPER B-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "madron",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NO"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "madron",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SHUT UP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "madron",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "THIS IS MY MOD"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "madron",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NOT YOURS"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Mackery",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "*disapears*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ":("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "good ridence"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "madron",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU TOO"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "leave or i look in your homework folder"
+		},
+		{
+			"speed": 0.01,
+			"portrait": "jj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+		}
+	]
+}

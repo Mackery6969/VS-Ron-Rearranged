@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why you annoyed?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "madron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "GRRRRRRRRRRRRRR"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "madron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BOB tried to kill me in MY MOD"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "madron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "to calm down lets sing a song"
+		}
+	]
+}

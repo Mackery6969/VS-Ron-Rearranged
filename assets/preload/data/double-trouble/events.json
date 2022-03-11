@@ -1,0 +1,41 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "mad",
+		"player1": "bf",
+		"player2": "ron-mad",
+		"player3": null,
+		"events": [
+			[
+				74875,
+				[
+					[
+						"Change Scroll Speed",
+						"0.9",
+						""
+					]
+				],
+				null,
+				"Alt Animation"
+			],
+			[
+				74877.5,
+				[
+					[
+						"Change Character",
+						"dad",
+						"hellron"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 250,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "Double Trouble"
+	}
+}

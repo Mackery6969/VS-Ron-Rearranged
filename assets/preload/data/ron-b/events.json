@@ -1,0 +1,109 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "ron",
+		"player1": "bf",
+		"player2": "ron-b",
+		"player3": null,
+		"events": [
+			[
+				794.117647058824,
+				[
+					[
+						"imageflash",
+						"longbob",
+						"1"
+					]
+				]
+			],
+			[
+				2470.58823529412,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"dad"
+					]
+				]
+			],
+			[
+				2474.26470588235,
+				[
+					[
+						"Add Camera Zoom",
+						"0.100",
+						"0.010"
+					]
+				]
+			],
+			[
+				2558.82352941176,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"dad"
+					]
+				]
+			],
+			[
+				2562.5,
+				[
+					[
+						"Add Camera Zoom",
+						"0.100",
+						"0.010"
+					]
+				]
+			],
+			[
+				2647.05882352941,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"dad"
+					]
+				]
+			],
+			[
+				2650.73529411765,
+				[
+					[
+						"Add Camera Zoom",
+						"0.100",
+						"0.010"
+					]
+				]
+			],
+			[
+				6705.88235294118,
+				[
+					[
+						"imageflash",
+						"longbob",
+						"1"
+					]
+				]
+			],
+			[
+				75882.3529411764,
+				[
+					[
+						"imageflash",
+						"longbob",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "ron-b"
+	}
+}

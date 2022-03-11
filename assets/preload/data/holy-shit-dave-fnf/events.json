@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "house",
+		"player1": "ron-playable",
+		"player2": "dave-fnf-real",
+		"player3": null,
+		"events": [
+			[
+				36000,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-um"
+					]
+				]
+			],
+			[
+				37500,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-err"
+					]
+				]
+			],
+			[
+				42000,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "none",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Holy-Shit-Dave-Fnf"
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "hellron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i will cause you endless torture"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hellron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "your crimes against god have lead you eternal suffering and pain"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hellron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "your girlfriend will be dead if you lose, and you will meet a terrible fate."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "what the fuck are you on about"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "what did i do?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hellron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lying about not having UNO"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "fuck"
+		}
+	]
+}

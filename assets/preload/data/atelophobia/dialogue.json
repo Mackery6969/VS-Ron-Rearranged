@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Damn your good...",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "Ron"
+		},
+		{
+			"expression": "confused",
+			"text": "you're*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "ratio",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "angry",
+			"speed": 0.165,
+			"portrait": "madron"
+		},
+		{
+			"expression": "excited",
+			"text": "thx :)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "NOT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\\!\\nratio",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "Ron"
+		},
+		{
+			"expression": "shocked",
+			"text": "what :(",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "you said ratio so im angry now",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ron"
+		},
+		{
+			"expression": "talk",
+			"text": "I joked about you being good i did not think you were good at all",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ron"
+		},
+		{
+			"expression": "talk",
+			"text": "i still hate you",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ron"
+		},
+		{
+			"expression": "talk",
+			"text": "i even hate you even more now",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ron"
+		},
+		{
+			"expression": "talk",
+			"text": "check this shit out",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "Ron"
+		},
+		{
+			"expression": "talk",
+			"text": "*disappears*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "ayo wtf",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "shell fall down by the end of this song",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ron"
+		},
+		{
+			"expression": "talk",
+			"text": "tru",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Mackery sux",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ron"
+		},
+		{
+			"expression": "talk",
+			"text": "false (joking noises)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

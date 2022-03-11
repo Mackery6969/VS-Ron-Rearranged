@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "Ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im gonna look in your homework folder if you dont shut yo bitchass up"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "PLEASE DONT LOOK AT MY BRITISH\\nHISTORY ASSIGNMENTS PLEASE"
+		},
+		{
+			"speed": 0.115,
+			"portrait": "Ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i meant your porn folder"
+		},
+		{
+			"speed": 0.13,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "oh"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah look at that all you want"
+		}
+	]
+}

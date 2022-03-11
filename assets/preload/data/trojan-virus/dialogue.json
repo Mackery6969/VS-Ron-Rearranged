@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "Ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I will commit genocide on the entire human race if you dont give up rn"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Like deadass ill kill all of daviss family"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who is that"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i do not know that person"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "mmh whatever just know that im going to kill you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "guh???"
+		}
+	]
+}

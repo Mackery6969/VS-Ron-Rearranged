@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "mad",
+		"player1": "bf",
+		"player2": "ron-slightly-annoyed",
+		"player3": null,
+		"events": [
+			[
+				103375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.100",
+						""
+					]
+				]
+			],
+			[
+				103500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ron-mad"
+					]
+				]
+			],
+			[
+				103625,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Wasted"
+	}
+}
