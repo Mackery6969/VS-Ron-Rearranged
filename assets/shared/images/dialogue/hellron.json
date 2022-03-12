@@ -1,0 +1,24 @@
+{
+	"position": [
+		-130,
+		-40
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "hellronPortrait",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				-4
+			],
+			"anim": "talk",
+			"idle_name": "Ron Enter0005",
+			"loop_name": "Ron Enter0005"
+		}
+	]
+}
