@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MACKERY.png"><SubTexture name="MACKERY fuckyou0000" x="0" y="1462" width="133" height="141" frameX="0" frameY="-21" frameWidth="175" frameHeight="162" />
+<SubTexture name="angry0000" x="0" y="0" width="893" height="731" frameX="-62" frameY="-19" frameWidth="1000" frameHeight="750" />
+<SubTexture name="sad0000" x="893" y="0" width="893" height="731" frameX="-62" frameY="-19" frameWidth="1000" frameHeight="750" />
+<SubTexture name="happy0000" x="0" y="731" width="893" height="731" frameX="-62" frameY="-19" frameWidth="1000" frameHeight="750" />
+<SubTexture name="happy0001" x="893" y="731" width="893" height="731" frameX="-62" frameY="-19" frameWidth="1000" frameHeight="750" />
+<SubTexture name="exited0000" x="1786" y="0" width="893" height="731" frameX="-62" frameY="-19" frameWidth="1000" frameHeight="750" />
+<SubTexture name="angry0001" x="1786" y="731" width="893" height="731" frameX="-62" frameY="-19" frameWidth="1000" frameHeight="750" />
+</TextureAtlas>

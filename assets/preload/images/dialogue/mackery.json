@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		-250,
+		-90
+	],
+	"scale": 0.85,
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "angry",
+			"idle_name": "angry0001"
+		},
+		{
+			"loop_name": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "happy0000",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "sad",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "exited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "exited",
+			"anim": "exited",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "MACKERY"
+}
